@@ -1,0 +1,18 @@
+{
+    "name": "Minecraft HTML",
+    "short_name": "Minecraft",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "AOT compiled port of MC JAVA",
+    "icons": [
+
+    ],
+    "related_applications": [
+      {
+        "platform": "play",
+        "url": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+      }
+    ]
+  }
+  
